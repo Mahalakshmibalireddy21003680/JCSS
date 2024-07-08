@@ -334,6 +334,5 @@ run();
 
 ### Output:
 
-![Image](image.png)
-
+![Image](image1.png)
 ![Image2](image2.png)
